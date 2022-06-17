@@ -1,0 +1,4 @@
+archivo 2
+linea 2
+TIC
+19190511
