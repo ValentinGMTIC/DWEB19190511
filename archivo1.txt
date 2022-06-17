@@ -4,3 +4,5 @@ UTSV
 19190511
 modificación del archivo 1
 linea 6 del archivo 1
+linea 7
+cambios hechos de manera local en VS Code
