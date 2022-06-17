@@ -4,3 +4,5 @@ TIC
 19190511
 modificación del archivo 2
 los cambios deben reflejarse en github al hacer push
+linea 7
+cambios en el repositorio remoto
